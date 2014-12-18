@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\Gene\AndroidStudioProjects\SwipeListViewExample\libraries\nine_old_androids_library\src\main\res" />
+        <source path="C:\Users\Gene\AndroidStudioProjects\SwipeListViewExample\libraries\nine_old_androids_library\build\generated\res\rs\debug" />
+        <source path="C:\Users\Gene\AndroidStudioProjects\SwipeListViewExample\libraries\nine_old_androids_library\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Gene\AndroidStudioProjects\SwipeListViewExample\libraries\nine_old_androids_library\src\debug\res" />
+    </dataSet>
+
+</merger>
